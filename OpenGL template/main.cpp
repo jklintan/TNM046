@@ -1,12 +1,11 @@
+/* Template for creating a window using OpenGL by using glfw by Josefine Klintberg.
+Include frameworks: OpenGL.framework and the file glfw lib that can be downloaded from this folder. 
+*/
+
 #include <iostream>
 #include <cstdlib>
 
 using namespace std;
-
-
-//GLEW
-//#define GLEW_STATIC
-//#include "glew.h"
 
 //GLFW
 #include "glfw3.h"
